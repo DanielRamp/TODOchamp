@@ -10,7 +10,7 @@ coming maybe soon
 coming maybe soon
 
 ## License
-GNU GPLv3, see [LICENCE](LICENCE).
+GNU GPLv3, see [LICENSE](LICENSE).
 
 Or more info: https://choosealicense.com/licenses/gpl-3.0/
 
