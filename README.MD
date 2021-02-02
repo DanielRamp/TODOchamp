@@ -13,5 +13,5 @@ GNU GPLv3, see [LICENCE](LICENCE).
 
 Or more info: https://choosealicense.com/licenses/gpl-3.0/
 
-# Contributors
+## Contributors
 Daniel, Mopyna
