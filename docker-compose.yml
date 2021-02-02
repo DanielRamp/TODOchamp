@@ -1,11 +1,11 @@
 version: "3"
 services:
   todochamp:
-    image: "node:10"
+    image: "node:15" #latest/current not lts 14
     user: "node"
     working_dir: "/app"
-    #environment:
-    #  - NODE_ENV=production
+    environment:
+      - PORT=8080
     volumes:
         - ./:/app
     expose:
