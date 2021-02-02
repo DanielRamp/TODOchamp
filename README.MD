@@ -10,4 +10,9 @@ coming maybe soon
 coming maybe soon
 
 ## License
-Not choosen yet, so currently copyright by DanielRamp and Mopyna
+GNU GPLv3, see [LICENCE](LICENCE).
+
+Or more info: https://choosealicense.com/licenses/gpl-3.0/
+
+## Contributors
+Daniel, Mopyna
