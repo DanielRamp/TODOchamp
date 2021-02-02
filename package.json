@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/DanielRamp/TODOchamp/issues"
   },
-  "homepage": "https://github.com/DanielRamp/TODOchamp#readme"
+  "homepage": "https://github.com/DanielRamp/TODOchamp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
