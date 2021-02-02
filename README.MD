@@ -3,8 +3,15 @@ This is a small ToDo project of two independent it people having fun coding in t
 
 More text coming maybe soon.
 
-## Install
-coming maybe soon
+## Install/Use
+You need Git, Docker and docker-compose, use a websearchengine to find it (sorry).
+
+`git clone https://github.com/DanielRamp/TODOchamp`
+
+`docker-compose up` or `docker-compose up -d` (to run in background)
+
+stop with Ctrl + C
+or if its running in background `docker-compose down`
 
 ## Contribute
 coming maybe soon
